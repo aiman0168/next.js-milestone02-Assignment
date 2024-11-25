@@ -6,7 +6,7 @@ const ContactPage = () => {
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl font-bold text-gray-800 text-center mb-6">Get in Touch</h2>
           <p className="text-lg text-gray-700 text-center mb-12">
-            Have questions or want to make a reservation? Fill out the form below, and we'll get back to you as soon as possible!
+            Have questions or want to make a reservation? Fill out the form below, and we will get back to you as soon as possible!
           </p>
 
           {/* Contact Form */}

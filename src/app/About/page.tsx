@@ -8,7 +8,7 @@ const AboutPage = () => {
           <p className="text-lg text-gray-700 mb-8">
             At Savourly, we strive to deliver an exceptional dining experience that brings together
             fresh ingredients, expert chefs, and a welcoming atmosphere. Our passion for food is evident in every
-            dish we serve, whether it's a comforting classic or a contemporary twist on a traditional favorite.
+            dish we serve, whether it is a comforting classic or a contemporary twist on a traditional favorite.
           </p>
           <p className="text-lg text-gray-700 mb-8">
             Located in the heart of the city, we offer a vibrant dining space with an inviting ambiance perfect for
